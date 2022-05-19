@@ -13,7 +13,7 @@ jobs:
         with:
           trello-api-key: 6c77c68ae53b2fce4028ea092517c1a3
           trello-auth-token: dc526e466aabad8d3d6d0317ead9641ebc7aa7df14c592bdc8f9baa84481180c
-          trello-board-id: https://trello.com/b/5yvM33Mc/testi
+          trello-board-id: 6286168bdf590b7ed0987687
           trello-card-action: "Comment"
           trello-list-name-commit: "Doing"
           trello-list-name-pr-open: "Reviewing"
